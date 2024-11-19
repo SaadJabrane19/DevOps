@@ -1,0 +1,31 @@
+commit 7f4904a248dfc52c9a0ffc1ca94d54e375a855d8
+Author: SaadJabrane19 <saadjabrane130@gmail.com>
+Date:   Tue Nov 19 12:45:27 2024 +0100
+
+    Revert "revert"
+    
+    This reverts commit 16890eaa75506a0615af527cf60655f9e7c9415d.
+
+commit 16890eaa75506a0615af527cf60655f9e7c9415d
+Author: SaadJabrane19 <saadjabrane130@gmail.com>
+Date:   Tue Nov 19 12:45:12 2024 +0100
+
+    revert
+
+commit 5dae626e9bfd8af51aae504ab2dd318a5af6c62c
+Author: SaadJabrane19 <saadjabrane130@gmail.com>
+Date:   Tue Nov 19 12:41:00 2024 +0100
+
+    commiting changes
+
+commit 6bae3d691d045da1f17c1596d561ace4ad912a5d
+Author: SaadJabrane19 <saadjabrane130@gmail.com>
+Date:   Tue Nov 19 11:46:45 2024 +0100
+
+    Add .gitignore file
+
+commit ed97ffaef9a2cf18d2490305e9bb7508beac3840
+Author: SaadJabrane19 <saadjabrane130@gmail.com>
+Date:   Tue Nov 19 11:03:30 2024 +0100
+
+    DevOps
